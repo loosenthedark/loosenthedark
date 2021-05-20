@@ -24,6 +24,9 @@ I'm an insatiable learner with a passion for crafting vibrant, engaging websites
 ### For more...
 Check out my <a href="https://loosenthedark.tech/" target="_blank">portfolio site</a> if you'd like to view live versions of some of my deployed projects, or else feel free to get in touch via any of the social links at the top of this page!
 <br>
+
+<br>
+
 <!--
 **loosenthedark/loosenthedark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
