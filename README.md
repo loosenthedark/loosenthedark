@@ -1,6 +1,6 @@
 <a href="https://loosenthedark.tech/" target="_blank"><p align="center"><img width="30%" src="https://user-images.githubusercontent.com/48750933/118945400-54b99180-b94d-11eb-9af9-e15361f6c7e2.png" alt="loosenthedark navbar-brand logo" style="margin-left:auto; margin-right:auto; border-radius:10px;"></p></a>
 
-# <p align="center">Paul Harrington :: <a href="https://loosenthedark.tech/" target="_blank">loosenthedark</a></p> <p align="center"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp badge"> &nbsp; <img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" alt="Signal badge"> &nbsp; <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge"> &nbsp; <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"> &nbsp; <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack badge"> &nbsp; <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge"></p>
+# <p align="center">Paul Harrington :: <a href="https://loosenthedark.tech/" target="_blank">loosenthedark</a></p> <p align="center"><a href="tel:+353894546613"><img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" alt="Signal badge"></a> &nbsp; <a href="https://api.whatsapp.com/send?phone=353894546613"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp badge"></a> &nbsp; <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge"> &nbsp; <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"> &nbsp; <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack badge"> &nbsp; <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge"></p>
 #### <span style="font-size:14px;" width="19%"> 💻 Junior Full Stack Developer</span> &nbsp; <span width="19%">  💪 Comfort zone expander</span> &nbsp; <span width="19%">  👨🏻‍💻 Job hunter</span> &nbsp; <span width="19%"> ☕ Caffeine appreciator</span> &nbsp; <span width="19%">  🧠 Gratification deferrer</span>
 <br>
 
@@ -22,7 +22,7 @@ I'm an insatiable learner with a passion for crafting vibrant, engaging websites
 <br>
 <br>
 ### For more...
-Check out my <a href="https://loosenthedark.tech/" target="_blank">portfolio site</a> if you'd like to view live versions of some of my deployed projects, or else feel free to get in touch via any of the social links at the top of this page!
+Check out my **<a href="https://loosenthedark.tech/" target="_blank">portfolio site</a>** if you'd like to view live versions of some of my deployed projects, or else feel free to get in touch via any of the social links at the top of this page!
 <br>
 
 <br>
