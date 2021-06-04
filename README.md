@@ -5,7 +5,7 @@
 
 ### In a nutshell...
 
-I'm an insatiable learner with a passion for crafting vibrant, engaging websites and applications across the full stack. When I'm not coding, I'm likely to be hugging the coast road here in 🇮🇪 🌊 😎 Dublin Bay, playing/watching football (I'm a huge ⚽ LUFC fan!) or blasting some 🎧 🎸 shoegaze. I'm a firm believer that "any job worth doing is worth doing well", whether that's tackling a static Frontend landing page or managing a data-centric Backend build, and I pride myself on delivering a first-rate user experience with every project.
+I'm an insatiable learner with a passion for building vibrant, engaging websites and applications across the full stack. When I'm not coding, I'm likely to be hugging the coast road here in 🇮🇪 🌊 😎 Dublin Bay, playing/watching football (I'm a huge ⚽ LUFC fan!) or blasting some 🎧 🎸 shoegaze. I'm a firm believer that "any job worth doing is worth doing well", whether that's tackling a static Frontend landing page or managing a data-centric Backend build, and I pride myself on delivering a first-rate user experience with every project.
 <br>
 <br>
 ### Existing skills...
