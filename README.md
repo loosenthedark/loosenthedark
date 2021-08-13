@@ -21,7 +21,7 @@ I'm an insatiable learner with a passion for building vibrant, engaging websites
 <br>
 <br>
 ### For more...
-Check out my **<a href="https://loosenthedark.tech/" target="_blank" style="text-decoration:none">portfolio site</a>** if you'd like to view live versions of some of my deployed projects, or else feel free to get in touch via any of the social links at the top of this page!
+Check out my **<a href="https://loosenthedark.tech/" target="_blank" style="text-decoration:none">portfolio site</a>** if you'd like to view live versions of some of my deployed projects, or feel free to get in touch via any of the social links at the top of this page!
 <br>
 
 <br>
